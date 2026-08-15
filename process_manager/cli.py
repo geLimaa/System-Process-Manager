@@ -1,5 +1,5 @@
 from process_manager.manager import list_processes
-from process_manager.display import manage_process
+from process_manager.manager import manage_process
 from process_manager.process import get_process_info
 from process_manager.display import print_menu, print_process_info, build_process_dashboard
 from process_manager.display import print_error, print_info, print_success
